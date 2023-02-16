@@ -9,6 +9,6 @@ def bubblesort(N):
 
 
 N = [3, 5, 8, 9, 6, 2]
-print('Original Array:',N)
+print('Original array:',N)
 bubblesort(N)
-print('Sorted Array:',N)
+print('Sorted array:',N)
